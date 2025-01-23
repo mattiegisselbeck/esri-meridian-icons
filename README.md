@@ -1,1 +1,1 @@
-# esri-meridian-icons
+# Esri Meridian Icons
